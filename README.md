@@ -13,3 +13,7 @@ Using this service is easy to select the platform:
 1. Enter your indicators weight
 2. Let our service do the selection for you
 3. Enjoy
+
+___
+
+For UI many thanks to [Saba Balaei](https://www.linkedin.com/in/sababalaei/) and her service at [Decision Radar](https://decision-radar.com)
